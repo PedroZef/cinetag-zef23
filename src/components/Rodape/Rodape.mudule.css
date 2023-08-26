@@ -1,10 +1,9 @@
 .rodape {
+    display: flex;
     text-align: center;
-    justify-content: center;
+    justify-content: space-between;
     background-color: var(--preto);
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+   
 }
 
 .rodape h2 {
@@ -13,6 +12,7 @@
     color: var(--branco);
     
 }
+
 
 
       

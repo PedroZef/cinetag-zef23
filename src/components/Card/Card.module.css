@@ -1,8 +1,8 @@
 .container {
-    padding: 0 0 1em 0;
+    padding:  1em ;
     margin-top: .5em;
-    width: 282px;
-    background-color: var(--cinza);
+    width: 292px;
+    background-color: var(--azul-claro);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
